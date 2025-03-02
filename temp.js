@@ -1,1 +1,3 @@
-alert("Hello, this is an alert!");
+function showAlert() {
+    alert("Button clicked!");
+}
